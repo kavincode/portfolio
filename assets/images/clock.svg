@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>iconfinder_clock_1814097</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0.500000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-8" transform="translate(-717.000000, -4412.000000)">
+            <g id="iconfinder_clock_1814097" transform="translate(718.000000, 4408.000000)" filter="url(#filter-1)">
+                <g transform="translate(0.000000, 5.600000)">
+                    <path d="M7.43791922,14.9083184 C3.34543965,14.9083184 0,11.5628788 0,7.47039921 C0,3.37791964 3.34543965,0.0324799966 7.43791922,0.0324799966 C11.5303988,0.0324799966 14.8758384,3.37791964 14.8758384,7.47039921 C14.9083184,11.5628788 11.5628788,14.9083184 7.43791922,14.9083184 L7.43791922,14.9083184 Z M7.43791922,0.811999914 C3.7676796,0.811999914 0.811999914,3.8001596 0.811999914,7.43791922 C0.811999914,11.0756788 3.8001596,14.0638385 7.43791922,14.0638385 C11.0756788,14.0638385 14.0638385,11.0756788 14.0638385,7.43791922 C14.0638385,3.8001596 11.1081588,0.811999914 7.43791922,0.811999914 L7.43791922,0.811999914 Z" id="Fill-131" stroke="#979797" stroke-width="0.5" fill="#000000" fill-rule="nonzero"></path>
+                    <polyline id="Fill-132" stroke="#979797" stroke-width="0.5" fill="#000000" fill-rule="nonzero" points="9.77647897 11.2705588 7.01567926 8.5097591 7.01567926 3.47535963 7.89263917 3.47535963 7.89263917 8.15247914 10.3935989 10.6534389 9.77647897 11.2705588"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
